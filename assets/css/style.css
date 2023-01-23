@@ -651,7 +651,8 @@ header a.logo img {
 
 .slider-image img {
     top: -90px;
-    width: 100%;
+    width: 65%;
+    right: -15%;
     position: relative;
 }
 
